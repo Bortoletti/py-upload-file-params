@@ -7,7 +7,7 @@ main.py
 
 2) executar o client de testes de upload
 
-client001.py
+client002.py
 
 3) verificar o diretorio logs
 
